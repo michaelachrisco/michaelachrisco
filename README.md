@@ -6,4 +6,5 @@
 * Creator of the novel [bead sort in C++](https://rosettacode.org/wiki/Sorting_algorithms/Bead_sort#C++)
 * Built two [Satnogs Satellite Ground Stations](https://network.satnogs.org/stations/1370/). [Build one today!](https://github.com/RootAccessHackerspace/meta/wiki/Satellite-Tracker)
 * Lifetime space/rocketry fan!
-* Most new libraries/code will be on: [my own git server](https://yuno.chrisco.me/git/michael). Feel free to take a look!
+
+Most new libraries/code will be on: [my own git server](https://yuno.chrisco.me/git/michael). Feel free to take a look!
