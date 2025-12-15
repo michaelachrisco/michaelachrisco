@@ -1,6 +1,6 @@
 ### :milky_way: Hello Everyone! :milky_way:
 
-* Board Member and Secretary of [Root Access](https://rootaccess.org/) a Makerspace in Fresno.
+* One of the founding members of [Root Access](https://rootaccess.org/) a Makerspace in Fresno.
 * Programmer/Analyst IV for CoF. 
 * Slowly working through Ben Eaters [8 bit computer](https://eater.net/8bit/).
 * Creator of the novel [bead sort in C++](https://rosettacode.org/wiki/Sorting_algorithms/Bead_sort#C++)
